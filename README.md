@@ -79,3 +79,6 @@
     away from the scene.
     
     PRESS 1,2,3,4,5 to change the camera views Respectively.
+   
+ ![alt text](img.png)
+
